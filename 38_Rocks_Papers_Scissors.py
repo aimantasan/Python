@@ -24,7 +24,7 @@ while True:
             print("You Win!")
 
     elif player == "paper":
-        if computer == "scissors":                 # Conditiuonal Statement if Lose (Paper)
+        if computer == "scissors":                 # Conditional Statement if Lose (Paper)
             print("Computer: ", computer)
             print("Player: " ,player)
             print("You Lose!")
@@ -34,7 +34,7 @@ while True:
             print("You Win!")
 
     elif player == "scissors":
-        if computer == "rock":                 # Conditiuonal Statement if Lose (Scissors)
+        if computer == "rock":                 # Conditional Statement if Lose (Scissors)
             print("Computer: ", computer)
             print("Player: " ,player)
             print("You Lose!")
